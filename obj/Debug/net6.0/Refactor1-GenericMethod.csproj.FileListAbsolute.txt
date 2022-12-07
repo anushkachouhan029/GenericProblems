@@ -1,0 +1,5 @@
+C:\genricproblem\Refactor1-GenericMethod\Refactor1-GenericMethod\obj\Debug\net6.0\Refactor1-GenericMethod.csproj.AssemblyReference.cache
+C:\genricproblem\Refactor1-GenericMethod\Refactor1-GenericMethod\obj\Debug\net6.0\Refactor1-GenericMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\genricproblem\Refactor1-GenericMethod\Refactor1-GenericMethod\obj\Debug\net6.0\Refactor1-GenericMethod.AssemblyInfoInputs.cache
+C:\genricproblem\Refactor1-GenericMethod\Refactor1-GenericMethod\obj\Debug\net6.0\Refactor1-GenericMethod.AssemblyInfo.cs
+C:\genricproblem\Refactor1-GenericMethod\Refactor1-GenericMethod\obj\Debug\net6.0\Refactor1-GenericMethod.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+C:\genricproblem\MaxIntegers\MaxIntegers\bin\Debug\net6.0\MaxIntegers.exe
+C:\genricproblem\MaxIntegers\MaxIntegers\bin\Debug\net6.0\MaxIntegers.deps.json
+C:\genricproblem\MaxIntegers\MaxIntegers\bin\Debug\net6.0\MaxIntegers.runtimeconfig.json
+C:\genricproblem\MaxIntegers\MaxIntegers\bin\Debug\net6.0\MaxIntegers.dll
+C:\genricproblem\MaxIntegers\MaxIntegers\bin\Debug\net6.0\MaxIntegers.pdb
+C:\genricproblem\MaxIntegers\MaxIntegers\obj\Debug\net6.0\MaxIntegers.csproj.AssemblyReference.cache
+C:\genricproblem\MaxIntegers\MaxIntegers\obj\Debug\net6.0\MaxIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\genricproblem\MaxIntegers\MaxIntegers\obj\Debug\net6.0\MaxIntegers.AssemblyInfoInputs.cache
+C:\genricproblem\MaxIntegers\MaxIntegers\obj\Debug\net6.0\MaxIntegers.AssemblyInfo.cs
+C:\genricproblem\MaxIntegers\MaxIntegers\obj\Debug\net6.0\MaxIntegers.csproj.CoreCompileInputs.cache
+C:\genricproblem\MaxIntegers\MaxIntegers\obj\Debug\net6.0\MaxIntegers.dll
+C:\genricproblem\MaxIntegers\MaxIntegers\obj\Debug\net6.0\refint\MaxIntegers.dll
+C:\genricproblem\MaxIntegers\MaxIntegers\obj\Debug\net6.0\MaxIntegers.pdb
+C:\genricproblem\MaxIntegers\MaxIntegers\obj\Debug\net6.0\MaxIntegers.genruntimeconfig.cache
+C:\genricproblem\MaxIntegers\MaxIntegers\obj\Debug\net6.0\ref\MaxIntegers.dll
